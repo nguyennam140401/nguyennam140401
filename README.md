@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nguyennam140401
+- 👋 Hi, I’m Nguyen Van Nam
 - 👀 I’m interested in music, video game , sport 
 - 🌱 My language: C++ , Java , HTML , CSS,
 - 🌱 I’m currently learning ReactJs , MongoDb
