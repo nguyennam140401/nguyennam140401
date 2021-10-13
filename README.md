@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyen Van Nam
 - 👀 I’m interested in music, video game , sport 
-- 🌱 My language: C++ , Java , HTML , CSS,
+- 🌱 My language: C++ , Java , HTML , CSS, Javascript
 - 🌱 I’m currently learning ReactJs , MongoDb
 - 📫 How to contact me : Facebook: https://www.facebook.com/bautroi.trongxanh.18/
 
