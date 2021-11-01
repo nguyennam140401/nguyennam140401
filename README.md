@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nguyen Van Nam
 - 👀 I’m interested in music, video game , sport 
 - 🌱 My language: C++ , Java , HTML , CSS, Javascript
-- 🌱 I’m currently learning ReactJs , MongoDb
+
 
 
 ![NguyenVanNam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyennam140401&show_icons=true&theme=radical)
